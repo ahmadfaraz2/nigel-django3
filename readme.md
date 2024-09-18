@@ -59,7 +59,7 @@ Follow these steps to set up the project locally:
     ```
 3. **Create a virtual environment**:
     ```bash 
-    cd python -m virtualenv venv
+    python -m virtualenv venv
     ```
 4. **Activate the virtual environment**:
     - On Windows:
